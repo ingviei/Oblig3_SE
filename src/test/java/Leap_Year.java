@@ -5,7 +5,7 @@ public class Leap_Year {
 
     @Test
     public void Div_By_4_Is_Leap_Year() {
-        assertEquals(true, LeapYear.isLeapYear(1995));
+        assertEquals(true, LeapYear.isLeapYear(1996));
     }
 
     @Test
